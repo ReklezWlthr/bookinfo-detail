@@ -1,6 +1,6 @@
 ratings:
   namespace: student23-bookinfo-dev
-  image: ghcr.io/reklezwlthr/bookinfo-ratings
+  image: ghcr.io/reklezwlthr/bookinfo-details
   tag: dev
   replicas: 1
   imagePullSecrets: registry-bookinfo
